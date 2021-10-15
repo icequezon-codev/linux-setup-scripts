@@ -1,0 +1,17 @@
+grouped_session	DEV2	DEV	:0	:1
+pane	DEV	0	:[tmux]	1	:*Z	0	:/home/francis/code/bitcoin	0	bash	:
+pane	DEV	0	:[tmux]	1	:*Z	1	:/home/francis/code/bitcoin/src	0	bash	:
+pane	DEV	0	:[tmux]	1	:*Z	2	:/home/francis/code/union-ledger	1	bash	:/bin/bash ./configure --with-boost=~/code/boost_build
+pane	DEV	0	:[tmux]	1	:*Z	3	:/home/francis/code/bitcoin	0	bash	:
+pane	DEV	1	:bitcoin	0	:!-	0	:/home/francis/code	1	bash	:
+pane	DEV	2	:qtum	0	:	0	:/home/francis/code/cpp-eth-qtum	1	vim	:vim
+pane	DEV	3	:bash	0	:	0	:/home/francis/regtest/A/regtest\ (deleted)	1	vim	:vim debug.log
+pane	DEV	3	:bash	0	:	1	:/home/francis/code	0	bash	:
+pane	DEV	3	:bash	0	:	2	:/home/francis/truffle/node_modules	0	bash	:
+pane	DEV	4	:vim	0	:	0	:/home/francis/Downloads	1	bash	:
+window	DEV	0	1	:*Z	a4a3,267x66,0,0[267x33,0,0{133x33,0,0,2,133x33,134,0,3},267x33,0,34{133x33,0,34,4,133x33,134,34,1}]
+window	DEV	1	0	:!-	cba2,267x66,0,0,5
+window	DEV	2	0	:	cba3,267x66,0,0,6
+window	DEV	3	0	:	a6e5,267x66,0,0[267x26,0,0,7,267x39,0,27{133x39,0,27,8,133x39,134,27,9}]
+window	DEV	4	0	:	65ff,267x66,0,0,10
+state	DEV	DEV2

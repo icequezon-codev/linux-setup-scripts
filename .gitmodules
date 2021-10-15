@@ -1,0 +1,42 @@
+[submodule "config_files/.tmux/plugins/tpm"]
+	path = config_files/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "config_files/.tmux/plugins/tmux-resurrect"]
+	path = config_files/.tmux/plugins/tmux-resurrect
+	url = https://git::@github.com/tmux-plugins/tmux-resurrect
+[submodule "config_files/.tmux/plugins/tmux-sensible"]
+	path = config_files/.tmux/plugins/tmux-sensible
+	url = https://git::@github.com/tmux-plugins/tmux-sensible
+[submodule "config_files/.tmux/plugins/tmux-continuum"]
+	path = config_files/.tmux/plugins/tmux-continuum
+	url = https://git::@github.com/tmux-plugins/tmux-continuum
+[submodule "config_files/.vim/plugged/vim-obsession"]
+	path = config_files/.vim/plugged/vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+[submodule "config_files/.vim/plugged/fzf.vim"]
+	path = config_files/.vim/plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "config_files/.vim/plugged/vim-tmux-clipboard"]
+	path = config_files/.vim/plugged/vim-tmux-clipboard
+	url = https://github.com/roxma/vim-tmux-clipboard.git
+[submodule "config_files/.vim/plugged/vim-airline"]
+	path = config_files/.vim/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "config_files/.vim/plugged/vim-cpp-enhanced-highlight"]
+	path = config_files/.vim/plugged/vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "config_files/.vim/plugged/vim-airline-themes"]
+	path = config_files/.vim/plugged/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "config_files/.vim/plugged/vim-tmux-focus-events"]
+	path = config_files/.vim/plugged/vim-tmux-focus-events
+	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
+[submodule "config_files/.vim/plugged/tmuxline.vim"]
+	path = config_files/.vim/plugged/tmuxline.vim
+	url = https://github.com/edkolev/tmuxline.vim.git
+[submodule "config_files/.vim/plugged/fzf"]
+	path = config_files/.vim/plugged/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "config_files/.vim/plugged/vim-fugitive"]
+	path = config_files/.vim/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
